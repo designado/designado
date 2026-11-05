@@ -4,14 +4,12 @@
 🐍 Aprendendo Python.<br>
 👨🏻‍🎓 Concluindo curso de pós-graduação em desenvolvimento Fullstack (PUC-Minas).<br>
 
-Que a força esteja com você!
-
 <div>
 <a href="https://github.com/designado"> 
 <img src="https://art.pixilart.com/a10add76cc70224.png" height="50">
 </a>
+Que a força esteja com você!
 </div>
-<br>
 <h1>Habilidades:</h1>  
 <div>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"> 
