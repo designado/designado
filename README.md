@@ -8,8 +8,7 @@ Que a força esteja com você!
 
 <div>
 <a href="https://github.com/designado"> 
-<img src="https://i.pinimg.com/736x/b3/44/3b/b3443b32eee56e301471643f0ecfdcc6.jpg" height="200">
-
+<img src="https://ts2.mm.bing.net/th?id=OIP.vNkLMNo9vVeLd9LDGrOo9gHaFb&pid=15.1" height="120">
 </a>
 </div>
 <br>
