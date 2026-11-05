@@ -7,14 +7,7 @@
 Que a força esteja com você!
 
 <div>
-<a href="https://github.com/designado">
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=designado&show_icons=true&theme=dracula" />
-
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=designado&layout=compact&theme=dracula" />
-
-</div>
+<a href="https://github.com/designado"> DESIGNADO </a>
 </div>
 <br>
 <h1>Habilidades:</h1>  
@@ -35,16 +28,4 @@ Que a força esteja com você!
   <img align="center" alt="Behance" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg"> 
   <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"> 
   <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"> 
-
- 
-
-
- 
-
-  
-</div>
-
-<div>
-
-  
 </div>
