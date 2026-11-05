@@ -7,7 +7,7 @@
 <div>
 <a href="https://github.com/designado"> 
 <img src="https://art.pixilart.com/a10add76cc70224.png" height="50">
-</a>
+</a><br>
 Que a força esteja com você!
 </div>
 <h1>Habilidades:</h1>  
